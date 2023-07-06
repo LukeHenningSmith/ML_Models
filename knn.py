@@ -1,3 +1,6 @@
+# Implementation of the K-Nearest Neighbours Algorithm for Binary Classification
+# By Luke Henning-Smith
+
 def classify_nn(training_filename, testing_filename, k):
   results = []
   training_data = []

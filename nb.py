@@ -1,3 +1,6 @@
+# Implementation of the Naive Bayes Algorithm for Binary Classification
+# By Luke Henning-Smith
+
 import math
 
 def classify_nb(training_filename, testing_filename):
